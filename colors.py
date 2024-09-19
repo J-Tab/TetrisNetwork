@@ -9,4 +9,4 @@ class Colors:
 
     @classmethod
     def get_cell_colors(cls):
-        return [cls.dark_grey,cls.red,cls.yellow, cls.purple, cls.green, cls.blue, cls.cyan]
+        return [cls.dark_grey,cls.cyan, cls.blue, cls.orange, cls.yellow, cls.green, cls.pruple, cls.red]

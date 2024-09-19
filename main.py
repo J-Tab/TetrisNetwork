@@ -5,7 +5,7 @@ from grid import Grid
 pygame.init()
 
 #Global varriables
-SCREEN_WIDTH = 300
+SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
 BACKGROUND_COLOR =(0,0,0)
 
